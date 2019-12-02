@@ -1,6 +1,6 @@
 {
   "name": "@taramouse/j-table-row",
-  "license": "GNU",
+  "license": "GPL",
   "version": "0.0.2",
   "publishConfig": {
     "access": "public"

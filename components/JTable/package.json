@@ -1,11 +1,11 @@
 {
   "name": "@taramouse/j-table",
   "license": "GPL",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@taramouse/j-table-row": "^0.0.2"
+    "@taramouse/j-table-row": "^0.1.0"
   }
 }

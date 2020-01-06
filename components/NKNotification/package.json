@@ -1,0 +1,12 @@
+{
+  "name": "@taramouse/nk-notification",
+  "license": "GPL",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:taramouse/reusable-vue-components.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
